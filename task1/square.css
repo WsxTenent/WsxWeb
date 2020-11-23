@@ -1,0 +1,12 @@
+.wrap {
+	text-align: center;
+}
+
+.square {
+	padding: 12%;
+	margin:2%;
+	display: inline-block;
+	font-size: 0;
+	background-color:orange;
+	border-radius: 8%;
+}
